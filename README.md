@@ -1,4 +1,4 @@
-# 𝑪𝒖𝒓𝒊𝒐𝒔𝒊𝒕𝒚𝑩𝒐𝒕-𝑴𝑫 
+# 𝑪𝒖𝒓𝒊𝒐𝒔𝒊𝒕𝒚𝑩𝒐𝒕-𝑴𝑫 ❤️
 <p align="center"> 
   <a href="https://github.com/AzamiWithLogic/CuriosityBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=ABF7JK&center=falso&vCenter=falso&lines=CURIOSITY+BOT+MD++❤️;GRACIAS+POR+VISITAR+ESTE+REPOSITORIO.👀" height="90px"
 </p> 
